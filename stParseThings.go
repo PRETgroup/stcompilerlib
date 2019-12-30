@@ -2,6 +2,8 @@ package stcompilerlib
 
 import (
 	"fmt"
+
+	"github.com/PRETgroup/stcompilerlib/postfixlib"
 )
 
 func (t *stParse) parseNext() (STInstruction, *STParseError) {

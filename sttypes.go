@@ -1,7 +1,7 @@
 package stcompilerlib
 
 import (
-	"github.com/PRETgroup/goFB/stcompilerlib/postfixlib"
+	"github.com/PRETgroup/stcompilerlib/postfixlib"
 )
 
 //STExpression is an interface defining an assignments and comparison function tree
